@@ -563,3 +563,47 @@ Thanks to all clawtributors:
   <a href="https://github.com/testingabc321"><img src="https://avatars.githubusercontent.com/u/8577388?v=4&s=48" width="48" height="48" alt="testingabc321" title="testingabc321"/></a> <a href="https://github.com/humanwritten"><img src="https://avatars.githubusercontent.com/u/206531610?v=4&s=48" width="48" height="48" alt="humanwritten" title="humanwritten"/></a> <a href="https://github.com/aaronn"><img src="https://avatars.githubusercontent.com/u/1653630?v=4&s=48" width="48" height="48" alt="aaronn" title="aaronn"/></a> <a href="https://github.com/Alphonse-arianee"><img src="https://avatars.githubusercontent.com/u/254457365?v=4&s=48" width="48" height="48" alt="Alphonse-arianee" title="Alphonse-arianee"/></a> <a href="https://github.com/gtsifrikas"><img src="https://avatars.githubusercontent.com/u/8904378?v=4&s=48" width="48" height="48" alt="gtsifrikas" title="gtsifrikas"/></a> <a href="https://github.com/hrdwdmrbl"><img src="https://avatars.githubusercontent.com/u/554881?v=4&s=48" width="48" height="48" alt="hrdwdmrbl" title="hrdwdmrbl"/></a> <a href="https://github.com/hugobarauna"><img src="https://avatars.githubusercontent.com/u/2719?v=4&s=48" width="48" height="48" alt="hugobarauna" title="hugobarauna"/></a> <a href="https://github.com/jiulingyun"><img src="https://avatars.githubusercontent.com/u/126459548?v=4&s=48" width="48" height="48" alt="jiulingyun" title="jiulingyun"/></a> <a href="https://github.com/kitze"><img src="https://avatars.githubusercontent.com/u/1160594?v=4&s=48" width="48" height="48" alt="kitze" title="kitze"/></a> <a href="https://github.com/loukotal"><img src="https://avatars.githubusercontent.com/u/18210858?v=4&s=48" width="48" height="48" alt="loukotal" title="loukotal"/></a>
   <a href="https://github.com/MSch"><img src="https://avatars.githubusercontent.com/u/7475?v=4&s=48" width="48" height="48" alt="MSch" title="MSch"/></a> <a href="https://github.com/odrobnik"><img src="https://avatars.githubusercontent.com/u/333270?v=4&s=48" width="48" height="48" alt="odrobnik" title="odrobnik"/></a> <a href="https://github.com/reeltimeapps"><img src="https://avatars.githubusercontent.com/u/637338?v=4&s=48" width="48" height="48" alt="reeltimeapps" title="reeltimeapps"/></a> <a href="https://github.com/rhjoh"><img src="https://avatars.githubusercontent.com/u/105699450?v=4&s=48" width="48" height="48" alt="rhjoh" title="rhjoh"/></a> <a href="https://github.com/ronak-guliani"><img src="https://avatars.githubusercontent.com/u/23518228?v=4&s=48" width="48" height="48" alt="ronak-guliani" title="ronak-guliani"/></a> <a href="https://github.com/snopoke"><img src="https://avatars.githubusercontent.com/u/249606?v=4&s=48" width="48" height="48" alt="snopoke" title="snopoke"/></a>
 </p>
+
+
+## 💰 支持与赞助
+
+### 爱发电赞助
+如果您觉得这个项目对您有帮助，欢迎通过爱发电支持我们！
+
+- **爱发电账号**: openclaw336699
+- **赞助链接**: https://www.ifdian.net/a/openclaw336699
+- **支持方式**: 微信支付 / 支付宝
+
+### 赞助套餐（与爱发电完全对齐）
+
+#### 月费档位：
+🌟 **入门支持者 - ¥29.00/月**
+   - 项目更新优先通知
+   - 专属感谢名单署名
+   - 24小时交付
+   - 3个优化建议
+
+#### 一次性赞助：
+- ¥29 - 入门支持（体验完整服务）
+- ¥99 - 深度支持（深度技术支持）
+- ¥199 - 企业支持（企业级服务）
+- 自定义金额（任何您觉得合适的金额）
+
+### 赞助者权益
+所有赞助者将获得：
+- 项目更新优先通知
+- 技术支持优先级
+- 感谢名单永久记录
+- 根据套餐等级的额外权益
+
+### 透明公开
+我们承诺：
+1. 所有赞助收入将用于项目开发
+2. 定期公开赞助收入和使用情况
+3. 感谢每一位支持者
+
+---
+
+**感谢您的支持！您的每一份支持都是我们前进的动力！**
+
+[![爱发电赞助](https://img.shields.io/badge/爱发电-支持我们-FF6B6B?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://www.ifdian.net/a/openclaw336699)
